@@ -1,6 +1,8 @@
 # Threat Hunt Report: Unauthorized Chrome Extension – Dark Reader
 
-<img width="400" src="https://github.com/user-attachments/assets/44bac428-01bb-4fe9-9d85-96cba7698bee" alt="Darkreader Logo"/>
+<img width="416" height="390" alt="image" src="https://github.com/user-attachments/assets/8b7c29b5-b8e8-4d22-a0c6-862372ac4561" />
+
+
 
 - [Scenario Creation](https://github.com/ilevillani/threat-hunt/blob/main/threat-hunting-labs/unauthorized-chrome-extension/chrome-event-creation.md)
 
