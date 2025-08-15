@@ -1,5 +1,5 @@
 # Threat Event (Unauthorized Chrome Extension Installation)
-**Unauthorized Chrome Extension Installation - Unauthorized installation of a trojanized extension, with credential harvesting and data exfiltration**
+**Unauthorized Chrome Extension Installation - Unauthorized installation of a trojanized extension, with potential credential harvesting and data exfiltration**
 
 ## Steps the "Bad Actor" took Create Logs and IoCs:
 1. Navigates to an unofficial Chrome extension repository: https://www.crx4chrome.com/
